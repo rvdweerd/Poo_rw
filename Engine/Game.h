@@ -42,8 +42,8 @@ private:
 	void UpdateModel();
 	/********************************/
 	/*  User Functions              */
-	void DrawGameOver( int x,int y );
-	void DrawTitleScreen( int x,int y );
+	//void DrawGameOver( int x,int y );
+	//void DrawTitleScreen( int x,int y );
 	/********************************/
 private:
 	MainWindow& wnd;

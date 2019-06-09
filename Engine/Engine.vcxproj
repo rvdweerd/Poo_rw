@@ -152,6 +152,7 @@
     <ClInclude Include="Resource.h" />
     <ClInclude Include="Sound.h" />
     <ClInclude Include="SoundEffect.h" />
+    <ClInclude Include="SpriteCodex.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Dude.cpp" />
@@ -164,6 +165,7 @@
     <ClCompile Include="Mouse.cpp" />
     <ClCompile Include="Poo.cpp" />
     <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="SpriteCodex.cpp" />
   </ItemGroup>
   <ItemGroup>
     <FxCompile Include="FramebufferPS.hlsl">
